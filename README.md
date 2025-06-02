@@ -1,6 +1,6 @@
 # TeamHub Dashboard 🚀
 
-A modern, responsive team management dashboard built with Next.js, TypeScript, Redux Toolkit, and Tailwind CSS. Features complete authentication system with beautiful UI/UX.
+A modern, responsive Space Omid dashboard built with Next.js, TypeScript, Redux Toolkit, and Tailwind CSS. Features complete authentication system with beautiful UI/UX.
 
 ![TeamHub Dashboard](https://images.unsplash.com/photo-1553028826-f4804a6dba3b?w=1200&h=600&fit=crop)
 
@@ -244,4 +244,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Made with ❤️ for modern team management**
+**Made with ❤️ for modern Space Omid**

@@ -74,7 +74,7 @@ const ProtectedRoute: React.FC<ProtectedRouteProps> = ({
 
           {/* Footer */}
           <div className="mt-8">
-            <p className="text-sm text-gray-500">Team Management Dashboard</p>
+            <p className="text-sm text-gray-500">Space Omid Dashboard</p>
           </div>
         </div>
       </div>

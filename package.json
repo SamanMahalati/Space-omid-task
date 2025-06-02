@@ -1,7 +1,7 @@
 {
   "name": "teamhub-dashboard",
   "version": "1.0.0",
-  "description": "Modern team management dashboard with authentication",
+  "description": "Modern Space Omid dashboard with authentication",
   "private": true,
   "scripts": {
     "dev": "next dev",
